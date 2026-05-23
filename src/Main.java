@@ -47,5 +47,9 @@ public class Main {
 //            System.out.println("Alumno "+alumno);
             System.out.println("Alumno "+alumno.getNombre());
         }
+        for (int j = 0;  j<=10 ; j++) {
+            System.out.println("Secuencia de numeros "+j);
+            System.out.println("Nuevo print");
+        }
     }
 }
